@@ -1,0 +1,9 @@
+ultralytics
+opencv-python
+pytesseract
+Pillow
+numpy
+google-generativeai
+streamlit
+streamlit-webrtc
+av
