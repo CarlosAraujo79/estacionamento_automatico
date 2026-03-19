@@ -23,7 +23,7 @@ def _import_cv2():
     try:
         import cv2  # type: ignore
     except Exception as e:  # pragma: no cover
-        _need("opencv-python", "Instale com: pip install -r requirements.txt")
+        _need("opencv-python-headless", "Instale com: pip install -r requirements.txt")
     return cv2
 
 

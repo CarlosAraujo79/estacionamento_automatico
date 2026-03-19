@@ -9,6 +9,8 @@ Este projeto usa seu modelo `.pt` (YOLO via `ultralytics`) para **detectar a pla
 
 ### Python deps
 
+Para o Streamlit Cloud, use `opencv-python-headless` (já está em `requirements.txt`).
+
 No Ubuntu/Debian, instale o suporte a venv:
 
 ```bash
